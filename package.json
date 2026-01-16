@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "trabalho do curso.dev do Filipe Deschamps",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSchlemperSimone/tabnews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosSchlemperSimone/tabnews/issues"
+  },
+  "homepage": "https://github.com/MarcosSchlemperSimone/tabnews#readme"
+}
