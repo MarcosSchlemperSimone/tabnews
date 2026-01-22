@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>"FRASE DE IMPACTO Alterando uma coisinha"</h1>
+    return <h1>"FRASE DE IMPACTO Mensagem Alterada"</h1>
 }
 
 
