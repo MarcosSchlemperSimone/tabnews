@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "next": "^13.1.6",
+    "next": "^16.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -8,9 +8,13 @@
   "version": "1.0.0",
   "description": "trabalho do curso.dev do Filipe Deschamps",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -23,4 +27,3 @@
   },
   "homepage": "https://github.com/MarcosSchlemperSimone/tabnews#readme"
 }
-
